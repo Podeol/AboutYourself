@@ -4,4 +4,4 @@ My name is Denis and i love cats
 
 This is my cat
 
-(img/cat.jpeg)
+![My cat](img/cat.jpeg)
